@@ -1,0 +1,8 @@
+2024-12-04 10:14:05.563 -03:00 [INF] Na requisição GetById 2 não foi encontrado!!!
+2024-12-04 11:31:00.463 -03:00 [INF] Na requisição GetById 4004 não foi encontrado!!!
+2024-12-04 14:09:32.046 -03:00 [WRN] ae deu ruim aqui
+System.Exception: Exception of type 'System.Exception' was thrown.
+2024-12-04 14:09:40.315 -03:00 [WRN] ae deu ruim aqui
+System.Exception: Exception of type 'System.Exception' was thrown.
+2024-12-04 14:11:18.639 -03:00 [WRN] ae deu ruim aqui
+System.Exception: Exception of type 'System.Exception' was thrown.

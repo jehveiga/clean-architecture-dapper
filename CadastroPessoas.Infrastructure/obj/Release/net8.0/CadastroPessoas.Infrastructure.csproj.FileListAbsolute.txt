@@ -1,0 +1,17 @@
+C:\Users\DRT75609\Documents\Repos\CadastroPessoas\CadastroPessoas.Infrastructure\bin\Release\net8.0\CadastroPessoas.Infrastructure.deps.json
+C:\Users\DRT75609\Documents\Repos\CadastroPessoas\CadastroPessoas.Infrastructure\bin\Release\net8.0\CadastroPessoas.Infrastructure.dll
+C:\Users\DRT75609\Documents\Repos\CadastroPessoas\CadastroPessoas.Infrastructure\bin\Release\net8.0\CadastroPessoas.Infrastructure.pdb
+C:\Users\DRT75609\Documents\Repos\CadastroPessoas\CadastroPessoas.Infrastructure\bin\Release\net8.0\CadastroPessoas.Application.dll
+C:\Users\DRT75609\Documents\Repos\CadastroPessoas\CadastroPessoas.Infrastructure\bin\Release\net8.0\CadastroPessoas.Domain.dll
+C:\Users\DRT75609\Documents\Repos\CadastroPessoas\CadastroPessoas.Infrastructure\bin\Release\net8.0\CadastroPessoas.Application.pdb
+C:\Users\DRT75609\Documents\Repos\CadastroPessoas\CadastroPessoas.Infrastructure\bin\Release\net8.0\CadastroPessoas.Domain.pdb
+C:\Users\DRT75609\Documents\Repos\CadastroPessoas\CadastroPessoas.Infrastructure\obj\Release\net8.0\CadastroPessoas.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\DRT75609\Documents\Repos\CadastroPessoas\CadastroPessoas.Infrastructure\obj\Release\net8.0\CadastroPessoas.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DRT75609\Documents\Repos\CadastroPessoas\CadastroPessoas.Infrastructure\obj\Release\net8.0\CadastroPessoas.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\DRT75609\Documents\Repos\CadastroPessoas\CadastroPessoas.Infrastructure\obj\Release\net8.0\CadastroPessoas.Infrastructure.AssemblyInfo.cs
+C:\Users\DRT75609\Documents\Repos\CadastroPessoas\CadastroPessoas.Infrastructure\obj\Release\net8.0\CadastroPessoas.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\DRT75609\Documents\Repos\CadastroPessoas\CadastroPessoas.Infrastructure\obj\Release\net8.0\Cadastro.0531D8A6.Up2Date
+C:\Users\DRT75609\Documents\Repos\CadastroPessoas\CadastroPessoas.Infrastructure\obj\Release\net8.0\CadastroPessoas.Infrastructure.dll
+C:\Users\DRT75609\Documents\Repos\CadastroPessoas\CadastroPessoas.Infrastructure\obj\Release\net8.0\refint\CadastroPessoas.Infrastructure.dll
+C:\Users\DRT75609\Documents\Repos\CadastroPessoas\CadastroPessoas.Infrastructure\obj\Release\net8.0\CadastroPessoas.Infrastructure.pdb
+C:\Users\DRT75609\Documents\Repos\CadastroPessoas\CadastroPessoas.Infrastructure\obj\Release\net8.0\ref\CadastroPessoas.Infrastructure.dll

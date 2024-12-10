@@ -1,0 +1,16 @@
+2024-12-05 08:42:57.133 -03:00 [ERR] ae deu ruim aqui Error
+2024-12-05 08:42:57.173 -03:00 [INF] ae deu ruim aqui Information
+System.Exception: Exception of type 'System.Exception' was thrown.
+2024-12-05 08:42:57.177 -03:00 [WRN] ae deu ruim aqui Warning
+System.Exception: Exception of type 'System.Exception' was thrown.
+2024-12-05 08:46:38.808 -03:00 [ERR] ae deu ruim aqui Error
+2024-12-05 08:46:38.856 -03:00 [INF] ae deu ruim aqui Information
+System.Exception: Exception of type 'System.Exception' was thrown.
+2024-12-05 08:46:38.859 -03:00 [WRN] ae deu ruim aqui Warning
+System.Exception: Exception of type 'System.Exception' was thrown.
+2024-12-05 08:54:13.605 -03:00 [ERR] ae deu ruim aqui Error
+2024-12-05 08:54:13.636 -03:00 [INF] ae deu ruim aqui Information
+System.Exception: Exception of type 'System.Exception' was thrown.
+2024-12-05 08:54:13.641 -03:00 [WRN] ae deu ruim aqui Warning
+System.Exception: Exception of type 'System.Exception' was thrown.
+2024-12-05 09:53:57.154 -03:00 [INF] Not Found. - Controller: PessoasController - Action: GetById - PessoaId: 3

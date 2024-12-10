@@ -1,0 +1,106 @@
+[
+  {
+    "ContainingType": "CadastroPessoas.Api.Controllers.PessoasController",
+    "Method": "Get",
+    "RelativePath": "api/pessoas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CadastroPessoas.Application.Dtos.ViewModels.PessoaViewModel, CadastroPessoas.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CadastroPessoas.Api.Controllers.PessoasController",
+    "Method": "Post",
+    "RelativePath": "api/pessoas",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pessoaInputModel",
+        "Type": "CadastroPessoas.Application.Dtos.InputModels.InseriPessoaInputModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CadastroPessoas.Api.Controllers.PessoasController",
+    "Method": "GetById",
+    "RelativePath": "api/pessoas/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "cache",
+        "Type": "Microsoft.Extensions.Caching.Distributed.IDistributedCache",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CadastroPessoas.Application.Dtos.ViewModels.PessoaViewModel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CadastroPessoas.Api.Controllers.PessoasController",
+    "Method": "Put",
+    "RelativePath": "api/pessoas/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "pessoaInputModel",
+        "Type": "CadastroPessoas.Application.Dtos.InputModels.AlteraPessoaInputModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CadastroPessoas.Api.Controllers.PessoasController",
+    "Method": "Delete",
+    "RelativePath": "api/pessoas/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

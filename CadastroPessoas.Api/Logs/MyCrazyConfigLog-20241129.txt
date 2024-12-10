@@ -1,0 +1,4 @@
+2024-11-29 14:02:18.012 -03:00 [INF] Na requisição GetById 3 não foi encontrado!!!
+2024-11-29 14:10:56.822 -03:00 [INF] Na requisição GetById 3 não foi encontrado!!!
+2024-11-29 14:11:25.222 -03:00 [INF] Na requisição GetById 3 não foi encontrado!!!
+2024-11-29 15:55:48.720 -03:00 [INF] Na requisição GetById 3 não foi encontrado!!!
