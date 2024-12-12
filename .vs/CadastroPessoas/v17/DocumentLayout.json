@@ -1,20 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\DRT75609\\Documents\\Repos\\CadastroPessoas\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{4BAB60B2-78F9-4D1E-9606-D625BBEBB3E1}|CadastroPessoas.Api\\CadastroPessoas.Api.csproj|c:\\users\\drt75609\\documents\\repos\\cadastropessoas\\cadastropessoas.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4BAB60B2-78F9-4D1E-9606-D625BBEBB3E1}|CadastroPessoas.Api\\CadastroPessoas.Api.csproj|solutionrelative:cadastropessoas.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BAB60B2-78F9-4D1E-9606-D625BBEBB3E1}|CadastroPessoas.Api\\CadastroPessoas.Api.csproj|c:\\users\\drt75609\\documents\\repos\\cadastropessoas\\cadastropessoas.api\\controllers\\v1\\pessoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BAB60B2-78F9-4D1E-9606-D625BBEBB3E1}|CadastroPessoas.Api\\CadastroPessoas.Api.csproj|solutionrelative:cadastropessoas.api\\controllers\\v1\\pessoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BAB60B2-78F9-4D1E-9606-D625BBEBB3E1}|CadastroPessoas.Api\\CadastroPessoas.Api.csproj|c:\\users\\drt75609\\documents\\repos\\cadastropessoas\\cadastropessoas.api\\config\\apiversion\\apiversioningextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BAB60B2-78F9-4D1E-9606-D625BBEBB3E1}|CadastroPessoas.Api\\CadastroPessoas.Api.csproj|solutionrelative:cadastropessoas.api\\config\\apiversion\\apiversioningextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,48 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\DRT75609\\Documents\\Repos\\CadastroPessoas\\CadastroPessoas.Api\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "CadastroPessoas.Api\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\DRT75609\\Documents\\Repos\\CadastroPessoas\\CadastroPessoas.Api\\appsettings.Development.json",
-              "RelativeToolTip": "CadastroPessoas.Api\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-10T18:08:43.1Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PessoasController.cs",
-              "DocumentMoniker": "C:\\Users\\DRT75609\\Documents\\Repos\\CadastroPessoas\\CadastroPessoas.Api\\Controllers\\v1\\PessoasController.cs",
-              "RelativeDocumentMoniker": "CadastroPessoas.Api\\Controllers\\v1\\PessoasController.cs",
-              "ToolTip": "C:\\Users\\DRT75609\\Documents\\Repos\\CadastroPessoas\\CadastroPessoas.Api\\Controllers\\v1\\PessoasController.cs",
-              "RelativeToolTip": "CadastroPessoas.Api\\Controllers\\v1\\PessoasController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T14:37:16.298Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ApiVersioningExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\DRT75609\\Documents\\Repos\\CadastroPessoas\\CadastroPessoas.Api\\Config\\ApiVersion\\ApiVersioningExtensions.cs",
-              "RelativeDocumentMoniker": "CadastroPessoas.Api\\Config\\ApiVersion\\ApiVersioningExtensions.cs",
-              "ToolTip": "C:\\Users\\DRT75609\\Documents\\Repos\\CadastroPessoas\\CadastroPessoas.Api\\Config\\ApiVersion\\ApiVersioningExtensions.cs",
-              "RelativeToolTip": "CadastroPessoas.Api\\Config\\ApiVersion\\ApiVersioningExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T11:56:09.169Z"
             }
           ]
         },

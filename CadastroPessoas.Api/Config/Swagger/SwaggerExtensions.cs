@@ -27,7 +27,7 @@ public static class SwaggerExtensions
 
                 foreach (ApiVersionDescription description in descriptions)
                 {
-                    options.SwaggerEndpoint($"/swagger/{description.GroupName}/swagger.json", description.GroupName.ToUpperInvariant());
+                    options.SwaggerEndpoint($"/swagger/{description.GroupName}/swagger.json", description?.GroupName.ToUpperInvariant());
                 }
 
             });

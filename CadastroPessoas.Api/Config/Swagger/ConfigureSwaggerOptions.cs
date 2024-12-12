@@ -11,10 +11,13 @@ namespace CadastroPessoas.Api.Config.Swagger;
 public class ConfigureSwaggerOptions : IConfigureNamedOptions<SwaggerGenOptions>
 {
     private readonly IApiVersionDescriptionProvider _provider;
+    private readonly IConfiguration _configuration;
 
-    public ConfigureSwaggerOptions(IApiVersionDescriptionProvider provider)
+    public ConfigureSwaggerOptions(IApiVersionDescriptionProvider provider,
+                                   IConfiguration configuration)
     {
         _provider = provider;
+        _configuration = configuration;
     }
 
     public void Configure(string? name, SwaggerGenOptions options)
@@ -45,7 +48,7 @@ public class ConfigureSwaggerOptions : IConfigureNamedOptions<SwaggerGenOptions>
         options.EnableAnnotations(); // Habilitar anotações
     }
 
-    private static OpenApiInfo CreateVersionInfo(ApiVersionDescription description)
+    private OpenApiInfo CreateVersionInfo(ApiVersionDescription description)
     {
         OpenApiInfo info = new()
         {
@@ -54,12 +57,12 @@ public class ConfigureSwaggerOptions : IConfigureNamedOptions<SwaggerGenOptions>
             Contact = new OpenApiContact
             {
                 Name = "Meu email de contato",
-                Email = "meu_email@email.com"
+                Email = _configuration.GetSection("SwaggerDoc:EmailEmpresa").Value ?? string.Empty
             },
             License = new OpenApiLicense
             {
                 Name = "Meu tipo de licença",
-                Url = new Uri(uriString: "https://exemplo.com.licenca")
+                Url = new Uri(uriString: _configuration.GetSection("SwaggerDoc:UrlLicence").Value ?? string.Empty)
             },
             Version = description.ApiVersion.ToString()
         };
